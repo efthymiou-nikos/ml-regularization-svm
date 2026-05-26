@@ -5,7 +5,8 @@
 ---
 
 ## Overview  
-This project explores two supervised machine learning problems focusing on regularization techniques for regression and kernel methods for classification.
+This project explores two supervised machine learning problems focusing on regularization techniques 
+for regression and kernel methods for classification.
 
 ---
 
